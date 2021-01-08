@@ -1,2 +1,2 @@
-# Laravel-Project-ThanhLongFashion
-# Laravel
+## ThanhLong Fashion
+### Đồ án Laravel
